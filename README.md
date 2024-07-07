@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=500px width=500px src="https://i.imgur.com/D7C4xS7.png" alt="Project logo"></a>
+ <img height=500px width=700px src="https://i.imgur.com/D7C4xS7.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">my_learning_journey_datacamp</h3>
